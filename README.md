@@ -1,0 +1,2 @@
+# Splitify---bill-splitting-and-expense-tracking-application
+Splitify is a smart bill-splitting and expense management app that helps groups manage shared expenses with ease. It supports both Equal Split and Custom Split, allowing flexible contribution tracking. The app automatically calculates balances and uses a settlement algorithm to minimize transactions. Designed for simplicity and scalability
