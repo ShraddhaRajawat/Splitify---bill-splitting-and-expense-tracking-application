@@ -2,7 +2,7 @@
 'use client';
 
 import { Suspense } from 'react';
-import ContactsContent from './ContactsContent';
+import ContactsContent from './components/ContactsContent';
 
 export default function ContactsPage() {
   return (
